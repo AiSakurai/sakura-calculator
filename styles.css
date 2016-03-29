@@ -1,0 +1,57 @@
+
+
+body{
+	margin:0px;
+	padding:0px;
+}
+
+form{
+	margin-left:0.8em;
+	margin-top:0.9em;
+}
+
+
+#calculator{
+	position:relative;
+	background-color:#FFB7C5;
+	width:300px;
+	height:450px;
+    background-image:url("sakura.png");
+	background-repeat:no-repeat;
+	background-position:right bottom;
+	margin:70px;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius: 25px;
+	box-shadow: 10px 10px 7px #8C263A;
+	
+}
+
+#display{
+	position:relative;
+	width:270px;
+	height:50px;
+	margin-top:1em;
+	margin-bottom:20px;
+	font-size:2em;
+	text-align:right;
+}
+
+.keys{
+	position:relative;
+	width:60px;
+	height:60px;
+	margin:0.2em;
+	opacity:0.7;
+	font-size:1em;
+	font-weight:bolder;
+}
+
+
+#multiply{
+	font-size:1.5em;
+	font-weight:bolder;
+	
+}
+
+
